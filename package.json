@@ -24,5 +24,19 @@
   "bugs": {
     "url": "https://github.com/elboqueronpaco/api-rest-ts/issues"
   },
-  "homepage": "https://github.com/elboqueronpaco/api-rest-ts#readme"
+  "homepage": "https://github.com/elboqueronpaco/api-rest-ts#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.14",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
 }
