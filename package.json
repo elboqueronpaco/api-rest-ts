@@ -1,0 +1,28 @@
+{
+  "name": "@elboqueronpaco/api-rest-test",
+  "version": "0.0.1-alpha0.0.1",
+  "description": "creación de api rest typescript express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elboqueronpaco/api-rest-ts.git"
+  },
+  "keywords": [
+    "ts",
+    "typecript",
+    "js",
+    "javacript",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Francisco Javier Moreno García <elboqueronpaco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elboqueronpaco/api-rest-ts/issues"
+  },
+  "homepage": "https://github.com/elboqueronpaco/api-rest-ts#readme"
+}
